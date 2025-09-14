@@ -2,8 +2,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)
 
-🚀 **Web App Developer | Android App Developer | Software Engineer | IT Enthusiast**
-
 👨‍💻 Passionate about building modern **web** and **mobile applications** with clean, scalable code.  
 🔧 Experienced in **Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, and Android Studio**.  
 📂 Skilled in developing **admin dashboards, loan management systems, automation tools, and simple Android apps**.  

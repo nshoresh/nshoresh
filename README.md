@@ -1,9 +1,4 @@
-███╗   ██╗ █████╗ ██████╗ ███████╗
-████╗  ██║██╔══██╗██╔══██╗██╔════╝
-██╔██╗ ██║███████║██████╔╝███████╗
-██║╚██╗██║██╔══██║██╔══██╗╚════██║
-██║ ╚████║██║  ██║██║  ██║███████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                                                           
+# 👋 Hi, I'm Shoresh
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)](https://github.com/nshoresh) [![Port Moresby · PNG](https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=flat-square&logo=googlemaps&logoColor=00FFCC)](https://github.com/nshoresh)
 

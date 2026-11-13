@@ -34,4 +34,7 @@
 
 ---
 
+[![contribution pulse](https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2430)](https://raw.githubusercontent.com/n30dyn4m1c/n30dyn4m1c/main/assets/pulse.svg) 
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshoresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2430)](https://raw.githubusercontent.com/n30dyn4m1c/n30dyn4m1c/main/assets/langs.svg)
+
 ✨ *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaborations. Most of my feature projects are still under progress*

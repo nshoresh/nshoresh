@@ -4,10 +4,24 @@
 
 ### 01 · about
 
-| overview | Passionate about building modern **web** and **mobile applications** with clean, scalable code. |
-| stack | Experienced in **Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python and Android development (beginner)**. |
-| focus | Skilled in developing **websites, web-based applications(MIS), admin dashboards, and simple Android apps**. Exploring **Kotlin & Java** to expand Android skills. |
-| note | *Most of my feature projects are still under progress. Feel free to explore or reach out for collaborations!* |
+<table width="100%">
+  <tr>
+    <td width="100" align="left"><b>overview</b></td>
+    <td>Passionate about building modern <b>web</b> and <b>mobile applications</b> with clean, scalable code.</td>
+  </tr>
+  <tr>
+    <td width="100" align="left"><b>stack</b></td>
+    <td>Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python and Android development (beginner)</b>.</td>
+  </tr>
+  <tr>
+    <td width="100" align="left"><b>focus</b></td>
+    <td>Skilled in developing <b>websites, web-based applications(MIS), admin dashboards, and simple Android apps</b>. Exploring <b>Kotlin & Java</b> to expand Android skills.</td>
+  </tr>
+  <tr>
+    <td width="100" align="left"><b>note</b></td>
+    <td><i>Most of my feature projects are still under progress. Feel free to explore or reach out for collaborations!</i></td>
+  </tr>
+</table>
 
 ### 02 · tech stack
 

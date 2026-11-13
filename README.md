@@ -72,6 +72,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
 </p>
 
+<details>
+  <summary><b>💻 Click to view active development environment & sys-info</b></summary>
+<p>
+
+```bash
+$ nshoresh --env
+OS          : Windows Subsystem for Linux (Ubuntu) / Windows PC
+Workspace   : VS Code + DBeaver GUI
+Server      : php artisan serve / Nginx Reverse Proxy
+Process     : PM2 Daemon Management
+Status      : Building robust apps at Vodafone PNG 🚀
+
 ### 04 · links
 
 [![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)

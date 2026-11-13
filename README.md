@@ -72,15 +72,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
 </p>
 
-<details>
-  <summary><b>💻 Click to view active development environment & sys-info</b></summary>
-```bash
-$ nshoresh --env
-OS          : Windows Subsystem for Linux (Ubuntu) / Windows PC
-Workspace   : VS Code + DBeaver GUI
-Server      : php artisan serve / Nginx Reverse Proxy
-Process     : PM2 Daemon Management
-Status      : Building robust apps at Vodafone PNG 🚀
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nshoresh/nshoresh/blob/main/snake.yml" alt="GitHub Snake Animation" />
+</p>
 
 ### 04 · links
 

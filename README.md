@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-### 04 · stats & metrics
+### 04 · Stats & Metrics
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2430" />
@@ -82,6 +82,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
 </p>
 
-### 05 · links
+### 05 · Links
 
 [![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)

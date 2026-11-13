@@ -75,9 +75,8 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/nshoresh/nshoresh/blob/main/snake.yml" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
-
 ### 04 · links
 
 [![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)

@@ -61,10 +61,7 @@
   </tr>
 </table>
 
-### 03 · stats & metrics
-
 <p align="center">
-
 ### 03 · stats & metrics
 
 <p align="center">

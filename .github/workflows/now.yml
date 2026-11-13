@@ -1,0 +1,36 @@
+name: Sync Now Status
+
+on:
+  schedule:
+    # Runs every Monday at midnight
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run status sync
+        run: |
+          echo "Syncing profile status components..."
+          # Add any custom auto-update scripts or leave as a timestamp/status ping
+          date -u > .last_sync
+          git add .last_sync
+          git commit -m "chore: auto-sync profile status timestamp [skip ci]" || exit 0
+          git push

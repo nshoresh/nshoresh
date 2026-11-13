@@ -72,11 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
 ### 04 · links
 
 [![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)

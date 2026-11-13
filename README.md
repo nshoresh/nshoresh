@@ -61,6 +61,12 @@
   </tr>
 </table>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
 ### 03 · stats & metrics
 
 <p align="center">

@@ -75,7 +75,11 @@
 <details>
   <summary><b>💻 Click to view active development environment & sys-info</b></summary>
 <p>
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 ```bash
 $ nshoresh --env
 OS          : Windows Subsystem for Linux (Ubuntu) / Windows PC

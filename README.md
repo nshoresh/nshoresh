@@ -74,8 +74,6 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshoresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2430" />
 </p>
 
-### ⏱️ Profile Status
-
 <p align="center">
   <img src="https://img.shields.io/badge/last_sync-live-brightgreen?style=flat-square&logo=github" alt="Last Sync Status" />
 </p>

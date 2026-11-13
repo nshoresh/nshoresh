@@ -4,22 +4,22 @@
 
 ### 01 · about
 
-<table width="100%">
+<table width="100%" style="background-color: #1f2430; border-radius: 6px; border-collapse: separate; border-spacing: 0;">
   <tr>
-    <td width="100" align="left"><b>overview</b></td>
-    <td>Passionate about building modern <b>web</b> and <b>mobile applications</b> with clean, scalable code.</td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>overview</b></td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Passionate about building modern <b>web</b> and <b>mobile applications</b> with clean, scalable code.</td>
   </tr>
   <tr>
-    <td width="100" align="left"><b>stack</b></td>
-    <td>Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python and Android development (beginner)</b>.</td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>stack</b></td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python and Android development (beginner)</b>.</td>
   </tr>
   <tr>
-    <td width="100" align="left"><b>focus</b></td>
-    <td>Skilled in developing <b>websites, web-based applications(MIS), admin dashboards, and simple Android apps</b>. Exploring <b>Kotlin & Java</b> to expand Android skills.</td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>focus</b></td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications(MIS), admin dashboards, and simple Android apps</b>. Exploring <b>Kotlin & Java</b> to expand Android skills.</td>
   </tr>
   <tr>
-    <td width="100" align="left"><b>note</b></td>
-    <td><i>Most of my feature projects are still under progress. Feel free to explore or reach out for collaborations!</i></td>
+    <td width="100" align="left" style="padding: 10px;"><b>note</b></td>
+    <td style="padding: 10px;"><i>Most of my feature projects are still under progress. Feel free to explore or reach out for collaborations!</i></td>
   </tr>
 </table>
 

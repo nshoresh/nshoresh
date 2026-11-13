@@ -2,7 +2,7 @@
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)](https://github.com/nshoresh) [![Port Moresby PNG](https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=flat-square&logo=googlemaps&logoColor=00FFCC)](https://github.com/nshoresh)
 
-### 01 · about
+### 01 · About
 
 <table width="100%" style="background-color: #1f2430; border-radius: 6px; border-collapse: separate; border-spacing: 0;">
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### 02 · tech stack
+### 02 · Tech stack
 
 <table width="100%">
   <tr>
@@ -61,13 +61,13 @@
   </tr>
 </table>
 
-### Contribution
+### 03 . Contribution
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-### 03 · stats & metrics
+### 04 · stats & metrics
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2430" />
@@ -78,6 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
 </p>
 
-### 04 · links
+### 05 · links
 
 [![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)

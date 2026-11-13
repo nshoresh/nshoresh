@@ -63,7 +63,7 @@
 
 ### Contribution
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 

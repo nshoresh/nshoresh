@@ -82,19 +82,21 @@
   <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-### 04 · Stats & Metrics
+## 04 · Stats & Metrics
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&bg_color=1f2430&border_color=2d3748&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=nshoresh&background=1f2430&border=2d3748&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2430" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshoresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2430" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/last_sync-live-brightgreen?style=flat-square&logo=github" alt="Last Sync Status" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nshoresh&theme=tokyonight&hide_border=true&background=1f2430" />
+  <a href="https://camo.githubusercontent.com/2027df56975f2b6afd5cd2a4ca90b5dda7a6fc9489a2e2f4ecb4926db7f4307c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6173745f73796e632d6c6976652d627269676874677265656e3f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://img.shields.io/badge/last_sync-live-brightgreen?style=for-the-badge&logo=github" alt="Last Sync Status" /></a>
 </p>
 
 ### 05 · Links

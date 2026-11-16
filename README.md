@@ -27,51 +27,51 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="180" align="left">LANGUAGES</td>
+    <td width="180" align="left"><b>LANGUAGES</b></td>
     <td width="100%">
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
     </td>
   </tr>
   <tr>
-    <td width="180" align="left">FRAMEWORKS & UI</td>
+    <td width="180" align="left"><b>FRAMEWORKS & UI</b></td>
     <td width="100%">
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Filament-F29D38?style=flat-square&logo=filament&logoColor=white" alt="Filament"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Filament-F29D38?style=for-the-badge&logo=filament&logoColor=white" alt="Filament"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
     </td>
   </tr>
   <tr>
-    <td width="180" align="left">MOBILE</td>
+    <td width="180" align="left"><b>MOBILE</b></td>
     <td width="100%">
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"></a>
     </td>
   </tr>
   <tr>
-    <td width="180" align="left">DATABASES</td>
+    <td width="180" align="left"><b>DATABASES</b></td>
     <td width="100%">
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
     </td>
   </tr>
   <tr>
-    <td width="180" align="left">DEVOPS & TOOLS</td>
+    <td width="180" align="left"><b>DEVOPS & TOOLS</b></td>
     <td width="100%">
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"></a>
     </td>
   </tr>
 </table>

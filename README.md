@@ -27,7 +27,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="160" align="left"><b>LANGUAGES</b></td>
+    <td width="180" align="left">LANGUAGES</td>
     <td width="100%">
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td width="160" align="left"><b>FRAMEWORKS & UI</b></td>
+    <td width="180" align="left">FRAMEWORKS & UI</td>
     <td width="100%">
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Filament-F29D38?style=flat-square&logo=filament&logoColor=white" alt="Filament"></a>
@@ -50,14 +50,14 @@
     </td>
   </tr>
   <tr>
-    <td width="160" align="left"><b>MOBILE</b></td>
+    <td width="180" align="left">MOBILE</td>
     <td width="100%">
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK"></a>
     </td>
   </tr>
   <tr>
-    <td width="160" align="left"><b>DATABASES</b></td>
+    <td width="180" align="left">DATABASES</td>
     <td width="100%">
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td width="160" align="left"><b>DEVOPS & TOOLS</b></td>
+    <td width="180" align="left">DEVOPS & TOOLS</td>
     <td width="100%">
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>

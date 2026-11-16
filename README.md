@@ -11,11 +11,11 @@
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>stack</b></td>
-    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python and Android development (beginner)</b>.</td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python</b> and <b>mobile app development (Android & iOS)</b>.</td>
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>focus</b></td>
-    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications(MIS), admin dashboards, and simple Android apps</b>. Exploring <b>Kotlin & Java</b> to expand Android skills.</td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications (MIS), admin dashboards, and mobile apps</b>. Exploring <b>Swift, SwiftUI, Kotlin & Java</b> to expand cross-platform mobile skills.</td>
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px;"><b>note</b></td>
@@ -27,36 +27,51 @@
 
 <table width="100%">
   <tr>
-    <td width="100" align="left"><b>CORE</b></td>
+    <td width="130" align="left"><b>LANGUAGES</b></td>
     <td>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
     </td>
   </tr>
   <tr>
-    <td width="100" align="left"><b>WEB</b></td>
+    <td width="130" align="left"><b>FRAMEWORKS & UI</b></td>
     <td>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Filament-F29D38?style=flat-square&logo=filament&logoColor=white" alt="Filament"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
-      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
     </td>
   </tr>
   <tr>
-    <td width="100" align="left"><b>DB</b></td>
+    <td width="130" align="left"><b>MOBILE</b></td>
+    <td>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="left"><b>DATABASES</b></td>
     <td>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" align="left"><b>DEVOPS & TOOLS</b></td>
+    <td>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"></a>
     </td>
   </tr>
 </table>

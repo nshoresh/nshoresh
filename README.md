@@ -21,19 +21,19 @@
 
 <table width="100%" style="background-color: #1f2430; border-radius: 6px; border-collapse: separate; border-spacing: 0;">
   <tr>
-    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>overview</b></td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>OVERVIEW</b></td>
     <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Passionate about building modern <b>web</b> and <b>mobile applications</b> with clean, scalable code.</td>
   </tr>
   <tr>
-    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>stack</b></td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>STACK</b></td>
     <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python</b> and <b>mobile app development (Android & iOS)</b>.</td>
   </tr>
   <tr>
-    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>focus</b></td>
+    <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>FOCUS</b></td>
     <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications (MIS), admin dashboards, and mobile apps</b>. Exploring <b>Swift, SwiftUI, Kotlin & Java</b> to expand cross-platform mobile skills.</td>
   </tr>
   <tr>
-    <td width="100" align="left" style="padding: 10px;"><b>note</b></td>
+    <td width="100" align="left" style="padding: 10px;"><b>NOTE</b></td>
     <td style="padding: 10px;"><i>Most of my feature projects are still under progress. Feel free to explore or reach out for collaborations!</i></td>
   </tr>
 </table>

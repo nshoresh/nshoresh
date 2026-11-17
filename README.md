@@ -1,4 +1,17 @@
-# 👋 Hi, I'm Shoresh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2430,100:58a6ff&height=150&section=header&text=Shoresh%20Nick%20Narowen&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+(Laravel+%26+PHP);Building+Web+Apps+(MIS)+%26+Admin+Dashboards;Exploring+iOS+(SwiftUI)+%26+Android+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Work" /></a>
+  <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=for-the-badge&logo=googlemaps&logoColor=00FFCC" alt="Port Moresby PNG" /></a>
+</p>
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)](https://github.com/nshoresh) [![Port Moresby PNG](https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=for-the-badge&logo=googlemaps&logoColor=00FFCC)](https://github.com/nshoresh)
 

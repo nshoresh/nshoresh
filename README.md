@@ -13,8 +13,6 @@
   <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=for-the-badge&logo=googlemaps&logoColor=00FFCC" alt="Port Moresby PNG" /></a>
 </p>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge)](https://github.com/nshoresh) [![Port Moresby PNG](https://img.shields.io/badge/Port%20Moresby-%C2%B7%20PNG-blue?style=for-the-badge&logo=googlemaps&logoColor=00FFCC)](https://github.com/nshoresh)
-
 ### 01 · About
 
 <table width="100%" style="background-color: #1f2430; border-radius: 6px; border-collapse: separate; border-spacing: 0;">
@@ -92,7 +90,11 @@
 ## 03 · Contribution
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nshoresh&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
 </p>
 
 ## 04 · Stats & Metrics

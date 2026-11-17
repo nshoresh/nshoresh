@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Shoresh Nick Narowen" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Shoresh Nick Narowen" />
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.onrender.com/api?type=waving&color=0:1f2430,100:58a6ff&height=150&section=header&text=Shoresh%20Nick%20Narowen&fontSize=34&fontColor=ffffff&animation=waving&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.onrender.com/api?type=waving&color=0:1f2430,100:58a6ff&height=160&section=header&text=Shoresh%20Nick%20Narowen&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=62&descSize=15" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">

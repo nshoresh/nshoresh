@@ -1,11 +1,6 @@
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="background: linear-gradient(90deg, #1f2430 0%, #58a6ff 100%); border-radius: 8px; padding: 25px 0; text-align: center;">
-  <tr>
-    <td>
-      <h1 style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">Shoresh Nick Narowen</h1>
-      <p style="color: #e6edf3; font-size: 16px; margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">Web &amp; Mobile App Developer</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.onrender.com/api?type=waving&color=0:1f2430,100:58a6ff&height=150&section=header&text=Shoresh%20Nick%20Narowen&fontSize=34&fontColor=ffffff&animation=waving&fontAlignY=38&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

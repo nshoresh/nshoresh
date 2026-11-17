@@ -1,13 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 150" width="854" height="150">
+  <style>
+    @keyframes floatWave {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+    }
+    .wave-bg {
+      animation: floatWave 4s ease-in-out infinite;
+    }
+  </style>
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1f2430" />
       <stop offset="100%" stop-color="#58a6ff" />
     </linearGradient>
   </defs>
-  <path fill="url(#grad)" d="M0,0 L854,0 L854,110 Q640,155 427,110 T0,110 Z">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,0 L854,0 L854,110 Q640,155 427,110 T0,110 Z; M0,0 L854,0 L854,110 Q640,70 427,115 T0,105 Z; M0,0 L854,0 L854,110 Q640,155 427,110 T0,110 Z" />
-  </path>
+  <path class="wave-bg" fill="url(#grad)" d="M0,0 L854,0 L854,112 Q640,152 427,112 T0,112 Z" />
   <text x="427" y="56" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="34" font-weight="bold">Shoresh Nick Narowen</text>
   <text x="427" y="94" text-anchor="middle" fill="#e6edf3" font-family="sans-serif" font-size="16">Web & Mobile App Developer</text>
 </svg>

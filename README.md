@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githack.com/nshoresh/nshoresh/main/assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Shoresh Nick Narowen" />
 </p>
 
 <p align="center">

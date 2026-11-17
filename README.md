@@ -101,4 +101,18 @@
 
 ### 05 · Links
 
-[![Website](https://img.shields.io/badge/Website-yumicode.tech-000000?style=flat-square&logo=google-chrome)](https://yumicode.tech) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/nshoresh) [![Medium](https://img.shields.io/badge/Medium-Writing-12100E?style=flat-square&logo=medium)](https://medium.com/@neomalesa)
+<p align="left">
+  <a href="https://yumicode.tech/"><img src="https://img.shields.io/badge/Website-yumicode.tech-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://medium.com/@neomalesa"><img src="https://img.shields.io/badge/Medium-Writing-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>

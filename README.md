@@ -76,10 +76,10 @@
   </tr>
 </table>
 
-### 03 . Contribution
+## 03 · Contribution
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/nshoresh/nshoresh/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nshoresh&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </p>
 
 ## 04 · Stats & Metrics
@@ -87,7 +87,7 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nshoresh&show_icons=true&bg_color=1f2430&border_color=2d3748&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nshoresh&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://streak-stats.demolab.com/?user=nshoresh&background=1f2430&border=2d3748&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />

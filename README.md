@@ -1,7 +1,7 @@
 <table align="center" width="100%" cellpadding="0" cellspacing="0" style="background: linear-gradient(90deg, #1f2430 0%, #58a6ff 100%); border-radius: 8px; padding: 25px 0; text-align: center;">
   <tr>
     <td>
-      <h1 style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">Shoresh Nick Narowen</h1>
+      <h1 style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">Shoresh Narowen</h1>
     </td>
   </tr>
 </table>

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+(Laravel+%26+PHP);Building+Web+Apps+(MIS)+%26+Admin+Dashboards;Exploring+iOS+(SwiftUI)+%26+Android+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+(Laravel+%26+PHP);Building+Web+Apps+(MIS)+%26+Admin+Dashboards;Custom+CMS+Portals+(Drupal%2C+WordPress+%26+Sitefinity);Exploring+iOS+(SwiftUI)+%26+Android+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,11 +26,11 @@
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>STACK</b></td>
-    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python</b> and <b>mobile app development (Android & iOS)</b>.</td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Experienced in <b>Laravel, Filament, PHP, JavaScript, MySQL, TailwindCSS, Python</b>, enterprise CMS platforms (<b>Drupal, WordPress, Sitefinity</b>), and <b>mobile app development (Android & iOS)</b>.</td>
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px; border-bottom: 1px solid #2d3748;"><b>FOCUS</b></td>
-    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications (MIS), admin dashboards, and mobile apps</b>. Exploring <b>Swift, SwiftUI, Kotlin & Java</b> to expand cross-platform mobile skills.</td>
+    <td style="padding: 10px; border-bottom: 1px solid #2d3748;">Skilled in developing <b>websites, web-based applications (MIS), custom CMS portals, admin dashboards, and mobile apps</b>. Exploring <b>Swift, SwiftUI, Kotlin & Java</b> to expand cross-platform mobile skills.</td>
   </tr>
   <tr>
     <td width="100" align="left" style="padding: 10px;"><b>NOTE</b></td>
@@ -62,6 +62,14 @@
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
       <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="180" align="left"><b>CMS & PLATFORMS</b></td>
+    <td width="100%">
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"></a>
+      <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/Sitefinity-5CE500?style=for-the-badge&logo=progress&logoColor=black" alt="Sitefinity"></a>
     </td>
   </tr>
   <tr>

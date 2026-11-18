@@ -129,7 +129,7 @@
 ### 05 · Links
 
 <p align="left">
-  <a href="https://vodafone.com.pg/"><img src="https://img.shields.io/badge/Website-yumicode.tech-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://vodafone.com.pg/"><img src="https://img.shields.io/badge/Website-vodafone.com.pg-007AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/nshoresh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://medium.com/@neomalesa"><img src="https://img.shields.io/badge/Medium-Writing-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
